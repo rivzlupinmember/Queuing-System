@@ -1,0 +1,11 @@
+C:\Alcera_Rivzky\Queuing System\bin\Debug\Queuing System.exe.config
+C:\Alcera_Rivzky\Queuing System\bin\Debug\Queuing System.exe
+C:\Alcera_Rivzky\Queuing System\bin\Debug\Queuing System.pdb
+C:\Alcera_Rivzky\Queuing System\obj\Debug\Queuing System.csproj.AssemblyReference.cache
+C:\Alcera_Rivzky\Queuing System\obj\Debug\Queuing_System.QueuingForm.resources
+C:\Alcera_Rivzky\Queuing System\obj\Debug\Queuing_System.Properties.Resources.resources
+C:\Alcera_Rivzky\Queuing System\obj\Debug\Queuing System.csproj.GenerateResource.cache
+C:\Alcera_Rivzky\Queuing System\obj\Debug\Queuing System.csproj.CoreCompileInputs.cache
+C:\Alcera_Rivzky\Queuing System\obj\Debug\Queuing System.exe
+C:\Alcera_Rivzky\Queuing System\obj\Debug\Queuing System.pdb
+C:\Alcera_Rivzky\Queuing System\obj\Debug\Queuing_System.CshierWindowQueueForm.resources
